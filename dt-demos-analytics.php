@@ -2,7 +2,7 @@
 /**
  * Plugin Name: DT Demos Analytics Code
  * Plugin URI: https://github.com/ChrisChasm/dt_demos_analytics
- * Description: Connect this Disciple Tools site to a larger network of sites. Adds security sensitive totals, mapping, activity logging.
+ * Description:
  */
 
 add_action( 'wp_head', function(){
